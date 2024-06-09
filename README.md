@@ -19,7 +19,7 @@ This interactive dashboard is designed to visualize bacterial data samples using
 
 ## Usage
 1. **Starting the Dashboard**: Open the `index.html` in a web browser to start the application.
-   - Altenative: You can use this link: to access static web page hosting visualization.
+   - Altenative: You can use this link: [belly-button-challenge](https://icherniavskyi.github.io/belly-button-challenge/) to access static web page hosting visualization.
 3. **Selecting a Sample**: Use the dropdown menu to select a sample. The metadata and charts will update automatically based on the selected sample.
 
 ## JavaScript Functions
